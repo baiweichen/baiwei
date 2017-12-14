@@ -1,0 +1,22 @@
+{
+  "name": "baiwei",
+  "version": "1.0.0",
+  "description": "create by qianduanDazhongma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/baiweichen/baiwei.git"
+  },
+  "keywords": [
+    "79576101315wei"
+  ],
+  "author": "chenbaiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiweichen/baiwei/issues"
+  },
+  "homepage": "https://github.com/baiweichen/baiwei#readme"
+}
